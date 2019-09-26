@@ -2,11 +2,11 @@
 
 # 构建镜像
 ```
-docker build -t horkel/mariadb:10.1.29 .
+docker build -t horkel/mariadb:10.4.8 .
 ```
 
 ### 推送镜像
 
 ```
-docker push horkel/mariadb:10.1.29
+docker push horkel/mariadb:10.4.8
 ```
